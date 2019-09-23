@@ -26,11 +26,11 @@ git clone --depth 1 https://github.com/tensorflow/tensorflow.git
 ```  
 
 Para desarrollar este proceso, aquí  tenemos varias posibilidades:  
-1.	Hacer lo el procedimiento en un Linux.
+1.	Hacer todo el procedimiento en un Linux.
 2.	Hacerlo en una maquina virtual(Win)
 3.	Hacerlo en Docker (Win, Linux, Mac).
 4.	En una instancia de AWS .
-5.	Hacerlo en Colab.  
+5.	Hacerlo en [Colab](https://github.com/sandroormeno/TensorFlowLite_En_Arduino_DUE/blob/master/Install_tensorFlow_lite_from_source.ipynb).  
 
 No es posible hacerlo en Windows por que requiere  __Make 3.82__, y la última versión disponible para [Window es la 3.81](http://gnuwin32.sourceforge.net/packages/make.htm).  
 
