@@ -52,7 +52,7 @@ En estos archivos tenemos algunas constantes para poder generar los datos de ent
 
 ####  Arduino_output_handler.cpp y output_handler.h  
 
-Estos  archivos  definen la función de salida de ejemplo: los valores generados por la red neuronal se vinculan al LED13  e imprimen  este valor en el monitor serie.  Que fue lo que modificamos en la experiencia  del tutorial de __youtube__, que fue básicamente incluir la salida serial e imprimir el valor de brightness:  
+Estos  archivos  definen la función de salida de ejemplo: los valores generados por la red neuronal se vinculan al LED13  e imprimen  este valor en el monitor serie.  Que fue lo que modificamos en la experiencia  del tutorial de [__youtube__](https://youtu.be/xK2pokW9Ofw), que fue básicamente incluir la salida serial e imprimir el valor de brightness:  
 
 ```c++
 
