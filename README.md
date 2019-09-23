@@ -34,7 +34,7 @@ Para desarrollar este proceso, aquí  tenemos varias posibilidades:
 
 No es posible hacerlo en Windows por que requiere  __Make 3.82__, y la última versión disponible para [Window es la 3.81](http://gnuwin32.sourceforge.net/packages/make.htm).  
 
-O el modo más fácil es bajar la versión compilada que tengo almacenada en este repositorio.  
+O el modo más fácil es bajar la versión compilada que tengo almacenada en este [repositorio](https://github.com/sandroormeno/share_aws/blob/master/hello_world.zip?raw=true).  
 
 Una vez que tengamos la librería podemos abrir el ejemplo, _et voilà_, ya podemos ver el código dentro del IDE de arduino. Aquí una breve descripción de los archivos:  
 
